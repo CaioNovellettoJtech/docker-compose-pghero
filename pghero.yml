@@ -1,5 +1,9 @@
 databases:
-  database1:
-    url: postgres://username:password@hostaddress/database1
-  database2:
-    url: postgres://username:password@hostaddress/database2
+  angra_reis_rj_PROD:
+    url: postgres://adminbd:raiz.26a18.jtech@189.91.97.248:5840/sansys
+      # database2:
+      #   url: postgres://username:password@hostaddress/database2
+
+
+
+

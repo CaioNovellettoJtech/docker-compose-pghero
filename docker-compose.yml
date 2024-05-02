@@ -9,4 +9,4 @@ services:
     environment:
       DATABASE_URL: postgres://user:password@hostaddress:5432
     volumes:
-      - /home/username/pghero/pghero.yml:/app/config/pghero.yml
+      - ./pghero.yml:/app/config/pghero.yml
